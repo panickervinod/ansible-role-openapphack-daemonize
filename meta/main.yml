@@ -1,0 +1,21 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: openapphack
+  description: "Daemonize for Unix-like operating systems"
+  company: ""
+  license: "license (BSD, MIT)"
+  min_ansible_version: 1.4
+  platforms:
+  - name: Ubuntu
+    versions:
+    - all
+  - name: Debian
+    versions:
+    - all
+  categories:
+    - development
+    - web
+    - system
+    - mail
